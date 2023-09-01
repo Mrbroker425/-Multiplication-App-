@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: yellow;
+   font-family: serif;
+   text-shadow: 5px 4px 5px;
+   font-weight: bold;
+}
+form{
+    background-color: azure;
+    padding: 50px;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 5px 5px 26px;
+    font-size: larger;
+
+}
+input{
+    height: 35px;
+    width: 43px;
+    border-radius: 3px;
+    box-shadow: 5px 4px 5px;
+}
+button{
+    height: 41px;
+    box-shadow: 5px 4px 5px;
+    font-family: sans-serif;
+}
